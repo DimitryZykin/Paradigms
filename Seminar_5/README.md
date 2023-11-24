@@ -13,4 +13,5 @@
 На выходе - сумма элементов массива.
 
 - Пример на языке Python в функциональной парадигме:
-- ![pic](Pic)
+
+![Pic](https://github.com/DimitryZykin/Paradigms/blob/main/Seminar_5/img/pic1.png)
